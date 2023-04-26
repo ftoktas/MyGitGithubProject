@@ -10,6 +10,9 @@ public class AtmProject{
         System.out.println("Git ogrenmek cok kolay");
         //version4
 
+        System.out.println("ferat branchi kodlarini yazdi");
+        // verison frt1
+
 
     }
 
