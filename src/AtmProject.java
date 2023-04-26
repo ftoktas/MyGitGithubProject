@@ -13,6 +13,8 @@ public class AtmProject{
         System.out.println("ferat branchi kodlarini yazdi");
         // verison frt1
 
+        System.out.println("bir kisim kodlar");
+        //frt2
 
     }
 
