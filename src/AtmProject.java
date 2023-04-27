@@ -17,6 +17,7 @@ public class AtmProject{
         //frt2
 
     }
+    // remote repoda degisiklik yaptim.
 
 
 
